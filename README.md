@@ -13,7 +13,7 @@
   </div>
 
 ## :pushpin: Sobre
-Pokedex, ainda em desenvolvimento, com o intuito de praticar programação web com Javascript, HTML e CSS.
+Desenvolou-se uma Pokedex, com o intuito de praticar programação web com Javascript, HTML e CSS.
 
 ## :woman_technologist: Desenvolvedora
 
