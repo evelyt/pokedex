@@ -11,21 +11,9 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/evelyt/pokedex?color=dd571c&logo=html5&style=plastic">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/evelyt/pokedex?color=181717&logoColor=181717&logo=github&style=plastic">
   </div>
-  
-  <details>
-    <summary>Sumário</summary>
-    <ol>
-        <li><a href="#pushpin-sobre">Sobre</a></li>
-        <li><a href="#hammer_and_wrench-funcionalidades">Funcionalidades</a></li>
-        <li><a href="#computer-tecnologias-e-recursos-utilizados">Tecnologias e recursos utilizados</a></li>
-            </ul>
-        </li>
-        <li><a href="#woman_technologist-desenvolvedora">Desenvolvedora</a></li>
-    </ol>
-</details>
 
 ## :pushpin: Sobre
-Pokedex, ainda em desenvolvimento, com o intuito de praticar programação web com Javascript, HTML e CSS.
+Desenvolou-se uma Pokedex, com o intuito de praticar programação web com Javascript, HTML e CSS.
 
 ## :woman_technologist: Desenvolvedora
 
